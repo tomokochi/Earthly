@@ -9,7 +9,8 @@ Earthly is an interactive world ranking web application that makes it easier for
 
 ### Team
 
-**Developers:** Fernanda Toledo, Tomoko Okochi, Mana Koike. <br />
+**Project Manager:** Tomoko Okochi. <br />
+**Developers:** Fernanda Toledo(lead), Tomoko Okochi, Mana Koike. <br />
 **Designers:** Jennifer Clements, Marlowe Vaughan.
 
 ### Technical Architecture
